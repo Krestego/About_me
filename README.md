@@ -1,5 +1,6 @@
 Привет!
-Меня зовут Дарья.[Фото] (https://drive.google.com/file/d/1X2_aRjGuznEfOPjGohjgKEDbS4Je9vE_/view?usp=share_link)
+Меня зовут Дарья.
+# ![Фото] (img/My photo.png)
 Я прохожу обучение на платформе [Нетология] (https://netology.ru), по программе «Инженер по тестированию: с нуля до middle» (шрифт). 
 
 На сегодняшний день я изучила такие блоки, как:
